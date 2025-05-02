@@ -2,15 +2,15 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Master's Degree in Neuroscience, at King's College London, UK
 
 #### Email
-sli[at]cumt.edu.cn
+Dongyu.zhang@kcl.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc., Applied Economics with Behavioural Science, University of Bath, 2018-2019.\
+BSc., International Finance, Jiangxi University of Finance and Economics, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Reinforcement Learning, decision-making, Neuroscience
 
